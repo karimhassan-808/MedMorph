@@ -21,7 +21,7 @@ class AnalysisLabel(QLabel):
         self.setAlignment(Qt.AlignCenter)
         # Add viewport-specific settings
         self.contrast_value = 0
-        self.brightness_value = 0  # Add brightness value
+        self.brightness_value = 0  
         self.resolution_scale = 1.0
         self.needs_resolution_update = False
         self.interpolation_mode = "Bilinear Interpolation"
@@ -51,7 +51,7 @@ class AnalysisLabel(QLabel):
             elif self.interpolation_mode == "Cubic Interpolation":
                 interpolation = cv2.INTER_CUBIC
             else:
-                interpolation = cv2.INTER_LINEAR  # Default to bilinear
+                interpolation = cv2.INTER_LINEAR  
 
             # Resize the image using the selected interpolation method
             resized_image = cv2.resize(
