@@ -115,7 +115,7 @@ Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a sm
     Double-click on an image to open the histogram. Get the lowdown on the stats and see your image in a whole new light 💡
 
 ### 8. Wrapping Up 🏁
-    Done? Close the window or terminate the app from the command line and call it a day 🙌
+    Done? Perfect now close the window or terminate the app from the command line and call it a day 🙌
 
 # Illustrations 🎨
 ## Gussian noise, denoise
