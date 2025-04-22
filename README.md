@@ -108,16 +108,22 @@ Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a sm
 ### 8. Wrapping Up 🏁
     Done? Close the window or terminate the app from the command line and call it a day 🙌
 
-# Photo
-![Image](https://github.com/user-attachments/assets/f9074268-bcd3-4b80-968b-74779208a2be)
-![Image](https://github.com/user-attachments/assets/598be92a-aaba-44f2-9be6-ac1f54463331)
-![Image](https://github.com/user-attachments/assets/98e3d1d9-3ee5-440a-bebd-aaf3a0318281)
-![Image](https://github.com/user-attachments/assets/ac144c23-a43b-4b4e-b2df-174317852af5)
-![Image](https://github.com/user-attachments/assets/97042fde-1a02-45d1-9b21-f7403167a035)
-![Image](https://github.com/user-attachments/assets/844a5bdf-d14c-4fea-80e2-32eec75b85ee)
-![Image](https://github.com/user-attachments/assets/f1632ce5-2bcd-4326-8fd4-b81f6c67b6d0)
-
+# Illustrations 🎨
+## Gussian noise, denoise
+  ![Image](https://github.com/user-attachments/assets/a978d7d7-6728-423d-a9ca-fea02c114a5f)
+## High, Low pass Filters
+  ![Image](https://github.com/user-attachments/assets/caabbacb-d54a-43d6-addd-f18cd84d7824)
+## Histogram Equalization, CLAHE
+  ![Image](https://github.com/user-attachments/assets/6d81a57b-dc17-4012-bd16-f8970c95fe2d)
+## Pink noise, denoise
+  ![Image](https://github.com/user-attachments/assets/95f33cdb-ff9b-4c9e-9e8e-57d9a05b5d62)
+## Salt and Pepper noise, denoise
+  ![Image](https://github.com/user-attachments/assets/18c45333-6848-4b1f-9d96-86d16153cfc9)
+## SNR and CNR
+  ![Image](https://github.com/user-attachments/assets/0ace14af-ecfa-4bb9-95fb-a3cb169f94b1)
+## Zooming Techniques
+  ![Image](https://github.com/user-attachments/assets/d8307497-6373-41df-a875-ac138ec4ce47)
 # Video
-https://github.com/user-attachments/assets/d20863aa-3f4d-4439-a057-003a3fc4bc4e
+[https://github.com/user-attachments/assets/d20863aa-3f4d-4439-a057-003a3fc4bc4e](https://github.com/user-attachments/assets/4f225e22-0790-436c-a4e3-5cd9868b95a8)
 ## License
 This project is licensed under the [MIT License](LICENSE).
