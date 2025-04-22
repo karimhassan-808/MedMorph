@@ -89,9 +89,8 @@ Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a sm
 ## 🛠️ Usage
 
 ### 1. 📦 Install Dependencies
-    ```bash
     pip install -r requirements.txt
-    ```
+    
 
 ### 2. Fire It Up 🚀
     run python MedMorph.py
