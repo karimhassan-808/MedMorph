@@ -7,7 +7,14 @@
 Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a smooth GUI experience fused with hardcore image processing capabilities.
 
 ---
-
+## Project Structure 📂
+  MedMorphProject/
+    ├── src/              # Source code directory
+    │   └── MedMorph/     # Main application code
+    ├── Data for testing/             # Sample/test DICOM data
+    ├── README.md         # Project documentation (this file)
+    ├── requirements.txt  # Python dependencies
+    └── .gitignore        # Git ignore rules
 ## 🚀 Features
 
 ### 🖼️ Image Processing & Enhancement
@@ -125,5 +132,15 @@ Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a sm
   ![Image](https://github.com/user-attachments/assets/d8307497-6373-41df-a875-ac138ec4ce47)
 # Video
 [https://github.com/user-attachments/assets/d20863aa-3f4d-4439-a057-003a3fc4bc4e](https://github.com/user-attachments/assets/4f225e22-0790-436c-a4e3-5cd9868b95a8)
+
+# Project Team 🧑‍🤝‍🧑
+
+## Collaborators
+
+- **Karim Hassan** 
+- **Kareem Taha**
+- **Omar Amein** 
+- **Omar Gamal** 
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
