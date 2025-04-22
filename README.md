@@ -1,4 +1,4 @@
-# MedMorph# 🧠 MedMorph
+# 🧠 MedMorph
 
 > *Morph your medical scans into clarity.*  
 
