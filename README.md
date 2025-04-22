@@ -15,6 +15,8 @@ Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a sm
     ├── README.md         # Project documentation (this file)
     ├── requirements.txt  # Python dependencies
     └── .gitignore        # Git ignore rules
+
+    
 ## 🚀 Features
 
 ### 🖼️ Image Processing & Enhancement
