@@ -137,12 +137,11 @@ Built with 💡 **PyQt5**, 🔧 **OpenCV**, and 🩺 **pydicom**, it brings a sm
 
 # Project Team 🧑‍🤝‍🧑
 
-## Collaborators
-
-- **Karim Hassan** 
-- **Kareem Taha**
-- **Omar Amein** 
-- **Omar Gamal** 
+# Contributors
+1. [Kareem Taha](https://github.com/Kareem-Taha-05)
+2. [Omar Gamal](https://github.com/OmarGamalH)
+3. [Karim Hassan](https://github.com/karimhassan-808)
+4. [Omar Amein](https://github.com/OmarAmein)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
